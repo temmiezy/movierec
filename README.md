@@ -1,2 +1,1 @@
-# movierec
-continuous integration repo
+[![CircleCI](https://circleci.com/gh/temmiezy/movierec/tree/main.svg?style=svg)](https://circleci.com/gh/temmiezy/movierec/tree/main)
