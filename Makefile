@@ -2,8 +2,7 @@ setup:
 	python3 -m venv ~/.movierec
 
 install:
-	pip install --upgrade pip --user &&\
-		pip install -r requirements.txt
+    pip install -r requirements.txt
 
 test:
 	python -m pytest -vv --cov=moviereclib tests/*.py
